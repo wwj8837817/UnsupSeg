@@ -21,7 +21,7 @@ If you find this paper and implementation useful, please consider citing our wor
 
 ## Clone repository
 ```
-git clone https://github.com/felixkreuk/UnsupSeg.git
+git clone [https://github.com/felixkreuk/UnsupSeg.git](https://github.com/wwj8837817/UnsupSeg.git)
 cd UnsupSeg
 ```
 
